@@ -63,12 +63,7 @@
             "siteConfig": {
               "appSettings": []
             },
-        
-Error: Parse error on line 65:
-...         },        },        "resource
-----------------------^
-Expecting 'STRING'
-},
+
         "resources": [{
             "apiVersion": "2015-08-01",
             "name": "web",
@@ -82,5 +77,5 @@ Expecting 'STRING'
                 "IsManualIntegration": true
             }
         }]
-    }]
+    }
 }
